@@ -1,2 +1,2 @@
 # OpenTutor
-AI Education Agent for tutoring and learning, suitable for any subject.
+An open-source AI Agent for Education and Learning, which features personalized and heuristic (Socratic) tutoring.
